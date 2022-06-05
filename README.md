@@ -2,8 +2,7 @@
 Polygon Smart Contract Network ERC20 Token<br/>
 <br/>
 https://c-exins.co/tokens/ERC20/odematic-odm/<br/>
-<br/><br/><br/>
-
+<img src="https://www.c-exins.co/tokens/ERC20/odematic-odm/images/OdeMatic-ODM-100px.png" title="OdeMatic ODM Polygon ERC20 Token" />
 
 Technical information of OdeMatic ODM Coin<br/>
 <br/>
