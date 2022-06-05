@@ -1,5 +1,4 @@
 # OdeMatic-ODM
-<h1>OdeMatic ODM</h1>
 Polygon Smart Contract Network ERC20 Token<br/>
 <br/>
 https://c-exins.co/tokens/ERC20/odematic-odm/<br/>
