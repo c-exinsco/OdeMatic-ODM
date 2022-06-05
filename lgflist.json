@@ -1,0 +1,20 @@
+{
+        "name": "OdeMatic",
+        "logoURI": "https://c-exins.co/tokens/ERC20/odematic-odm/images/uploaded/0x7ccF8E6480927246043d3a754fc2978651Fa9a5e.png",
+        "timestamp": 1651345200,
+        "tokens": [
+               {
+                     "chainId": 1,
+                     "address": "0x7ccF8E6480927246043d3a754fc2978651Fa9a5e",
+                     "name": "OdeMatic",
+                     "symbol": "ODM",
+                     "decimals": 6,
+                     "logoURI": "https://c-exins.co/tokens/ERC20/odematic-odm/images/uploaded/0x7ccF8E6480927246043d3a754fc2978651Fa9a5e.png"
+               }
+         ],
+         "version": {
+                "major": 1,
+                "minor": 0,
+                "patch": 0
+        }
+}
