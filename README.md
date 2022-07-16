@@ -45,14 +45,15 @@ https://app.sushi.com/swap?tokens=0xc2132D05D31c914a87C6611C10748AEb04B58e8F&tok
 
 Subscribe us for help & support and to get connected:<br/>
 <br/>
+Twitter: https://twitter.com/cexinsco<br/>
+Instagram: https://www.instagram.com/cexinsco<br/>
+Telegram: https://t.me/OdeMaticODMTradersGRP1 (Join Telegram Chat Group)<br/>
+Discord: https://discord.new/QQy9fskxavaD (Join Discord Chat Group)<br/>
+Pinterest: https://pinterest.com/cexinsco<br/>
+Reddit: https://www.reddit.com/user/cexinsco<br/>
 Slack: https://cexinscocrypt-dod6095.slack.com<br/>
 Facebook: https://facebook.com/cexinsco<br/>
 LinkedIn: https://linkedin.com/in/cexinsco<br/>
-Twitter: https://twitter.com/cexinsco<br/>
-Instagram: https://www.instagram.com/cexinsco<br/>
-Discord: https://discord.new/QQy9fskxavaD<br/>
-Pinterest: https://pinterest.com/cexinsco<br/>
-Reddit: https://www.reddit.com/user/cexinsco<br/>
 Tiktok: https://tiktok.com/@cexinsco?lang=en<br/>
 Telegram: https://t.me/cexinsco<br/>
 Medium: https://c-exins-co.medium.com/<br/>
